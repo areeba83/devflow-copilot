@@ -162,7 +162,7 @@ see it summarized.
       score columns — that's real Day 4/5 work no one can do for you
       from a sandbox.
 
-## Explaining the local-first trade-off (for the demo / viva)
+## Explaining the local-first trade-off (for the demo)
 
 Local-first means zero marginal cost per generation and no client data
 ever leaving the machine (NFR-002, NFR-007) — real advantages for a
